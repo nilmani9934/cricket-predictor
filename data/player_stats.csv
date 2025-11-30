@@ -1,0 +1,9 @@
+player_id,player_name,team,role,career_runs,career_wkts
+IND_1,Player1,India,batsman,4500,12
+IND_2,Player2,India,bowler,800,190
+AUS_1,Player1,Australia,batsman,5200,22
+AUS_2,Player2,Australia,bowler,700,175
+ENG_1,Player1,England,allrounder,3100,95
+ENG_2,Player2,England,batsman,4100,5
+PAK_1,Player1,Pakistan,allrounder,3500,88
+PAK_2,Player2,Pakistan,bowler,500,160
